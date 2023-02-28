@@ -1,0 +1,3 @@
+# DCS - Digital Combat Simulator
+#
+cdn.digitalcombatsimulator.com
